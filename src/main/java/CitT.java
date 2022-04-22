@@ -12,5 +12,6 @@ public class CitT {
         System.out.println("hot-fix --冲突");
 
         System.out.println("push ---> github");
+        System.out.println("pull ---> localhost");
     }
 }
