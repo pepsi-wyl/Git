@@ -6,5 +6,6 @@
 public class CitT {
     public static void main(String[] args) {
         System.out.println("V5");
+        System.out.println("hot-fix");
     }
 }
