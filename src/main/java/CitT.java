@@ -10,5 +10,7 @@ public class CitT {
 
         System.out.println("master--冲突");
         System.out.println("hot-fix --冲突");
+
+        System.out.println("push ---> github");
     }
 }
